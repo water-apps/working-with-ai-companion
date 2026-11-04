@@ -1,0 +1,4 @@
+Fictional action list from the previous meeting.
+
+- Priya: run the staging import with the duplicate check. Status: done (see 09:00).
+- Lee: confirm the rollback plan. Status: open (see 09:02).

@@ -1,0 +1,5 @@
+work/
+work-*/
+__pycache__/
+*.sqlite
+.DS_Store

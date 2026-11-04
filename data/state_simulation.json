@@ -1,0 +1,6 @@
+{
+  "note": "Fictional analogy for a missing state link. Not Terraform. Nothing here touches a cloud account.",
+  "inventory": ["demo/account-a", "demo/account-b"],
+  "tracked_mapping": {"database.b": "demo/account-b"},
+  "expected_mapping": {"database.a": "demo/account-a", "database.b": "demo/account-b"}
+}

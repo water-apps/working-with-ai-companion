@@ -1,0 +1,9 @@
+{
+  "team": "platform",
+  "period_start": "2026-10-26",
+  "period_end_exclusive": "2026-11-02",
+  "timezone": "Australia/Sydney",
+  "source": "data/tickets.csv",
+  "export_complete": true,
+  "note": "Fictional fixture. The export_complete flag is a teaching input, not proof that a live export is complete."
+}

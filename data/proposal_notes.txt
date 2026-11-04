@@ -1,0 +1,7 @@
+Fictional client notes. Harbour Office Supplies is an invented company.
+
+Client: Harbour Office Supplies
+Request: a one-page cloud cost review and three evidence-linked actions.
+Inputs the client can supply: two monthly billing CSV exports, subject to their approval.
+Access: no production access is requested or offered.
+Not agreed: budget, price, delivery date, the client's approver.

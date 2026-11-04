@@ -1,0 +1,4 @@
+ticket_id,title,status,completed_on,updated_on
+T-1,Rotate the staging credentials,completed,2026-10-29,2026-10-29
+T-2,Write the rollback checklist,open,,2026-10-20
+T-3,Review the import duplicate check,open,,2026-10-30

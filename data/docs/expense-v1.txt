@@ -1,0 +1,3 @@
+Expense policy. Owner: Finance. Effective from 1 January 2026.
+Any expense above AUD 200 requires manager approval before purchase.
+Receipts are attached to the expense claim within 30 days.

@@ -1,0 +1,5 @@
+{
+  "note": "Demo identities only. This is not authentication. Anyone with these files can read every document directly.",
+  "reader": ["public"],
+  "hr": ["public", "hr"]
+}

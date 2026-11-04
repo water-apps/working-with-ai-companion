@@ -1,0 +1,6 @@
+{
+  "note": "Same fixture with a deliberate conflict: database.b is tracked against the wrong resource. The comparison must stop for review.",
+  "inventory": ["demo/account-a", "demo/account-b"],
+  "tracked_mapping": {"database.b": "demo/account-a"},
+  "expected_mapping": {"database.a": "demo/account-a", "database.b": "demo/account-b"}
+}

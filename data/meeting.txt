@@ -1,0 +1,8 @@
+Fictional project meeting transcript. Names and times are invented.
+
+09:00 Priya: The staging import passed the duplicate check.
+09:02 Lee: We have not tested rollback.
+09:04 Priya: I will write the rollback checklist.
+09:05 Sam: I can review it after Priya shares a draft.
+09:07 Lee: Do not schedule production until rollback is tested.
+09:09 Sam: No production date has been agreed.

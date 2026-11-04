@@ -1,0 +1,9 @@
+[
+  {"id": "leave-v1", "family": "leave-policy", "version": 1, "title": "Annual leave policy v1", "owner": "People team", "approved": true, "effective_from": "2026-01-01", "effective_to": "2026-09-30", "groups": ["public"], "file": "docs/leave-v1.txt"},
+  {"id": "leave-v2", "family": "leave-policy", "version": 2, "title": "Annual leave policy v2", "owner": "People team", "approved": true, "effective_from": "2026-10-01", "effective_to": null, "groups": ["public"], "file": "docs/leave-v2.txt"},
+  {"id": "leave-v3-draft", "family": "leave-policy", "version": 3, "title": "Annual leave policy v3 (draft)", "owner": "People team", "approved": false, "effective_from": "2027-01-01", "effective_to": null, "groups": ["public"], "file": "docs/leave-v3-draft.txt"},
+  {"id": "expense-v1", "family": "expense-policy", "version": 1, "title": "Expense policy", "owner": "Finance", "approved": true, "effective_from": "2026-01-01", "effective_to": null, "groups": ["public"], "file": "docs/expense-v1.txt"},
+  {"id": "salary-record", "family": "salary", "version": 1, "title": "Salary record (restricted)", "owner": "HR", "approved": true, "effective_from": "2026-01-01", "effective_to": null, "groups": ["hr"], "file": "docs/salary-record.txt"},
+  {"id": "travel-a", "family": "travel-policy", "version": 1, "title": "Travel policy (operations)", "owner": "Operations", "approved": true, "effective_from": "2026-01-01", "effective_to": null, "groups": ["public"], "file": "docs/travel-a.txt"},
+  {"id": "travel-b", "family": "travel-policy", "version": 1, "title": "Travel policy (finance)", "owner": "Finance", "approved": true, "effective_from": "2026-03-01", "effective_to": null, "groups": ["public"], "file": "docs/travel-b.txt"}
+]

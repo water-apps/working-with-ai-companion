@@ -1,0 +1,7 @@
+task,before_minutes,after_brief_and_operate_minutes,after_review_correct_check_minutes,runs_per_month,maintenance_minutes_per_month,saved_minutes_per_month,monthly_tool_cost,hourly_value,net_value,keep
+Monday status report,45,3,12,4,20,"=(B2-(C2+D2))*E2-F2",10,50,"=G2/60*I2-H2",
+Meeting notes to decisions,20,2,8,12,0,"=(B3-(C3+D3))*E3-F3",5,50,"=G3/60*I3-H3",
+First draft of client proposal,240,15,90,1,0,"=(B4-(C4+D4))*E4-F4",10,50,"=G4/60*I4-H4",
+Replying to routine email,30,5,20,20,0,"=(B5-(C5+D5))*E5-F5",5,50,"=G5/60*I5-H5",
+Fixing a bug in code I know well,30,10,35,8,0,"=(B6-(C6+D6))*E6-F6",10,50,"=G6/60*I6-H6",
+your task,,,,,,"=(B7-(C7+D7))*E7-F7",,50,"=G7/60*I7-H7",

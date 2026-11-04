@@ -1,0 +1,3 @@
+RESTRICTED. Fictional salary record for the retrieval exercise. Owner: HR.
+Employee: A. Example (fictional). Salary: AUD 1 (placeholder figure for the exercise).
+This record is visible only to the hr group in the simulation.

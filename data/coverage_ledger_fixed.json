@@ -1,0 +1,5 @@
+[
+  {"item": "demo-a", "status": "completed", "run": "fictional-run-2"},
+  {"item": "demo-b", "status": "completed", "run": "fictional-run-2"},
+  {"item": "demo-c", "status": "skipped", "reason": "out of scope for this migration wave", "run": "fictional-run-2"}
+]

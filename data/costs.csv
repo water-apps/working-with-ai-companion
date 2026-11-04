@@ -1,0 +1,9 @@
+month,service,cost_usd
+2026-10,compute,60
+2026-10,compute,40
+2026-10,storage,40
+2026-10,network,10
+2026-11,compute,100
+2026-11,compute,60
+2026-11,storage,45
+2026-11,network,15
