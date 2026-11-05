@@ -2,7 +2,7 @@
 
 Copy these into your own notes. They are the book's review and evidence formats, with nothing filled in.
 
-## Review record (Chapter 9)
+## Review record (Chapter 8)
 
 ```
 Output:            [what was produced]
@@ -17,7 +17,7 @@ Decision:          [approve | approve after correction | reject]
 Reviewer and date: [name, date]
 ```
 
-## Evidence card (Chapter 18)
+## Evidence card (Chapter 24)
 
 ```
 Claim:                  [one exact statement, no broad words]
@@ -29,7 +29,7 @@ Limitations:            [missing evidence, estimates, untested cases]
 Publication permission: [what may be shared, confirmed by whom]
 ```
 
-## Measured-value row (Chapter 17)
+## Measured-value row (Chapter 14)
 
 Use `data/worksheet.csv`, or:
 
@@ -37,7 +37,7 @@ Use `data/worksheet.csv`, or:
 Task | Before (min) | After: brief + operate | After: review + correct + check | Runs/month | Maintenance (min/month) | Saved = (Before − After) × Runs − Maintenance | Tool cost | Hourly value | Net = Saved/60 × Hourly − Tool | Keep?
 ```
 
-## Tooling disclosure (Chapter 9, one page)
+## Tooling disclosure (Chapter 8, one page)
 
 ```
 Approved tools:            [names, plan types]
